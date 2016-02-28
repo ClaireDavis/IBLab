@@ -23,4 +23,5 @@ In this part of the lab, you will make the label update to display text that the
 2. Create an outlet from the text field to the ViewController file. 
 3. Change the method that you wrote to control the button to instead update the label to display the text that the user has entered into the text field.
 
+
 Voila!  You created an app!
