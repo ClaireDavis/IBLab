@@ -20,7 +20,7 @@ In this lab, you'll make your way around the Xcode Interface Builder, creating a
 Good job completing part one!
 In this part of the lab, you will make the label update to display text that the user inputs.
 1. Move back to the main storyboard file and slap a text field onto the screen.  This is where the user will input her text.
-2. Create an outlet from the text field to the ViewController file.  
+2. Create an outlet from the text field to the ViewController file. 
 3. Change the method that you wrote to control the button to instead update the label to display the text that the user has entered into the text field.
 
 Voila!  You created an app!
